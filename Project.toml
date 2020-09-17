@@ -1,0 +1,12 @@
+name = "util_linux_jll"
+uuid = "a762b42e-dc87-5958-a639-9c9eec9c0153"
+version = "2.35.0+0"
+
+[deps]
+Gettext_jll = "78b55507-aeef-58d4-861c-77aaff3498b1"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"
