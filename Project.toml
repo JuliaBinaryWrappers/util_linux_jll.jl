@@ -1,6 +1,6 @@
 name = "util_linux_jll"
 uuid = "a762b42e-dc87-5958-a639-9c9eec9c0153"
-version = "2.41.1+0"
+version = "2.41.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

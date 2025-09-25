@@ -1,112 +1,112 @@
 [[util_linux]]
 arch = "aarch64"
-git-tree-sha1 = "56535f3c01285eea4d5ee3c8aaefc49d28b6a754"
+git-tree-sha1 = "164eee924fd52f19a42470ad26030b0fc9ace0f7"
 libc = "glibc"
 os = "linux"
 
     [[util_linux.download]]
-    sha256 = "767f2e7cc920c4152de664985a0a2160a494d90576666c75a1582826b4bd0a47"
-    url = "https://github.com/JuliaBinaryWrappers/util_linux_jll.jl/releases/download/util_linux-v2.41.1+0/util_linux.v2.41.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "7d6e897dce4fd1f063e48cf55cff5bf4987982b7e1805035ffa32510a1d34041"
+    url = "https://github.com/JuliaBinaryWrappers/util_linux_jll.jl/releases/download/util_linux-v2.41.2+0/util_linux.v2.41.2.aarch64-linux-gnu.tar.gz"
 [[util_linux]]
 arch = "aarch64"
-git-tree-sha1 = "1296c93485fe692c0ed2b55731dec72705acb4b7"
+git-tree-sha1 = "9426da0cd182a6bda3c85237841e2a16038ce20e"
 libc = "musl"
 os = "linux"
 
     [[util_linux.download]]
-    sha256 = "345d0d53184a632b7b14ce9577c089f40541bc7be328505f275c9f51df3e926e"
-    url = "https://github.com/JuliaBinaryWrappers/util_linux_jll.jl/releases/download/util_linux-v2.41.1+0/util_linux.v2.41.1.aarch64-linux-musl.tar.gz"
+    sha256 = "ba87a50c95d70efead5c8346951a594951b1eeffac86f1589a14da2e789bc694"
+    url = "https://github.com/JuliaBinaryWrappers/util_linux_jll.jl/releases/download/util_linux-v2.41.2+0/util_linux.v2.41.2.aarch64-linux-musl.tar.gz"
 [[util_linux]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "8504b0284132cce4916f4f0a86fccfd626b55f6a"
+git-tree-sha1 = "e4ab6d293d0c9129edfaa4d0a8f0670905f3fd68"
 libc = "glibc"
 os = "linux"
 
     [[util_linux.download]]
-    sha256 = "6a80519d24df9cf27d6f0c6e20a4b1d5e15b1f98eae2c90c4e458be820c54ad6"
-    url = "https://github.com/JuliaBinaryWrappers/util_linux_jll.jl/releases/download/util_linux-v2.41.1+0/util_linux.v2.41.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "77bc455eb239823118ffbeb0e91c154092425a0d7cd3e6c0b787d31dae083073"
+    url = "https://github.com/JuliaBinaryWrappers/util_linux_jll.jl/releases/download/util_linux-v2.41.2+0/util_linux.v2.41.2.armv6l-linux-gnueabihf.tar.gz"
 [[util_linux]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "80fd2bfe84ef93292c66c32a1f722f39405fae2a"
+git-tree-sha1 = "95456c1b7bac64c58452a24b4d3ab2df1dc6c9e1"
 libc = "musl"
 os = "linux"
 
     [[util_linux.download]]
-    sha256 = "c374b33aa7664a11175f649d1429e998c81f556d0c0edc9b2dd3a7d355425674"
-    url = "https://github.com/JuliaBinaryWrappers/util_linux_jll.jl/releases/download/util_linux-v2.41.1+0/util_linux.v2.41.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "4921e7518e233d4b27fbbc9cc874f9a7fb879a733dae12ce4eac79b0331dd593"
+    url = "https://github.com/JuliaBinaryWrappers/util_linux_jll.jl/releases/download/util_linux-v2.41.2+0/util_linux.v2.41.2.armv6l-linux-musleabihf.tar.gz"
 [[util_linux]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "622d222fd31691a57c21abecf0cc0ac0de9818b0"
+git-tree-sha1 = "a4e3769de7d3c96f3331df64b36f59a0863fa2a7"
 libc = "glibc"
 os = "linux"
 
     [[util_linux.download]]
-    sha256 = "16417d2d87e83d6ebfd8c5ec255e9117ca4ea5158dc994946e5e8ce0245bd3da"
-    url = "https://github.com/JuliaBinaryWrappers/util_linux_jll.jl/releases/download/util_linux-v2.41.1+0/util_linux.v2.41.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "862e96a20a9be47e1108e776d3d99b596c62cb7eb4ce88fc4e09064ad6ec95ff"
+    url = "https://github.com/JuliaBinaryWrappers/util_linux_jll.jl/releases/download/util_linux-v2.41.2+0/util_linux.v2.41.2.armv7l-linux-gnueabihf.tar.gz"
 [[util_linux]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "ea2a994e214a74bd52992358bedbcdfd0e1e0d77"
+git-tree-sha1 = "a7dad6c1c2d934d7984e863f0fa6e468e78a25b9"
 libc = "musl"
 os = "linux"
 
     [[util_linux.download]]
-    sha256 = "cf82ed38fb161a18ac10aa9d3a44269560d99761c4c4669d7b9e7be8afc634c4"
-    url = "https://github.com/JuliaBinaryWrappers/util_linux_jll.jl/releases/download/util_linux-v2.41.1+0/util_linux.v2.41.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "01f1057711b00a67d602b5e2592fc872005a58101afd154318f8172f9ee76518"
+    url = "https://github.com/JuliaBinaryWrappers/util_linux_jll.jl/releases/download/util_linux-v2.41.2+0/util_linux.v2.41.2.armv7l-linux-musleabihf.tar.gz"
 [[util_linux]]
 arch = "i686"
-git-tree-sha1 = "fede1e7926ce7153b3c7ff321c99b03824f97564"
+git-tree-sha1 = "77a683707b75fb841cbd9f3406d94f04b4ec0ad5"
 libc = "glibc"
 os = "linux"
 
     [[util_linux.download]]
-    sha256 = "a7f54ec2b7133c1b577e35f77f17412613e834947e46b04d8e6cb727ccde2afa"
-    url = "https://github.com/JuliaBinaryWrappers/util_linux_jll.jl/releases/download/util_linux-v2.41.1+0/util_linux.v2.41.1.i686-linux-gnu.tar.gz"
+    sha256 = "91e194337b18f75b164f7c656b439ca4bc56b0548b3a5bf26cff7ec09d55186c"
+    url = "https://github.com/JuliaBinaryWrappers/util_linux_jll.jl/releases/download/util_linux-v2.41.2+0/util_linux.v2.41.2.i686-linux-gnu.tar.gz"
 [[util_linux]]
 arch = "i686"
-git-tree-sha1 = "31ef3e6d9ccc35a97f56eeadcadf2ffe8ca41d56"
+git-tree-sha1 = "905b2ce3dcb9237c6bfd32c849be929a96c571d0"
 libc = "musl"
 os = "linux"
 
     [[util_linux.download]]
-    sha256 = "8feb5acc3a21e8eaa876f45f47e361413c36a7f19a32301f0272fa7d9eaabdf1"
-    url = "https://github.com/JuliaBinaryWrappers/util_linux_jll.jl/releases/download/util_linux-v2.41.1+0/util_linux.v2.41.1.i686-linux-musl.tar.gz"
+    sha256 = "1a5d97bfcb6b8ac16d4e3b5fd811dd3ca54040f1d6c3c0d03b069060bd9aa2c4"
+    url = "https://github.com/JuliaBinaryWrappers/util_linux_jll.jl/releases/download/util_linux-v2.41.2+0/util_linux.v2.41.2.i686-linux-musl.tar.gz"
 [[util_linux]]
 arch = "powerpc64le"
-git-tree-sha1 = "102698695cfa5efe33ddc7d56f21750d5091f5bc"
+git-tree-sha1 = "6fa4ea2d4b0e9a2fddb7551e9330fd7f1865023f"
 libc = "glibc"
 os = "linux"
 
     [[util_linux.download]]
-    sha256 = "094ff9868187dcf72e5a169b749fdda0ddaf30c0ce3feec50cd09540962a40ac"
-    url = "https://github.com/JuliaBinaryWrappers/util_linux_jll.jl/releases/download/util_linux-v2.41.1+0/util_linux.v2.41.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "84f95dd645580fc1a2e8e118ddd92cf2cc933056d231a23ac2c5e8774252be58"
+    url = "https://github.com/JuliaBinaryWrappers/util_linux_jll.jl/releases/download/util_linux-v2.41.2+0/util_linux.v2.41.2.powerpc64le-linux-gnu.tar.gz"
 [[util_linux]]
 arch = "riscv64"
-git-tree-sha1 = "66c17a992b46f8276ac2e376acf2a5d0e76e3e59"
+git-tree-sha1 = "6fb63e7d67e48ba8d2bd557a041552d5940f6fde"
 libc = "glibc"
 os = "linux"
 
     [[util_linux.download]]
-    sha256 = "9c3c786d975c6732ec6756199414311e30677e2148c57a3aceca363171d1bdbf"
-    url = "https://github.com/JuliaBinaryWrappers/util_linux_jll.jl/releases/download/util_linux-v2.41.1+0/util_linux.v2.41.1.riscv64-linux-gnu.tar.gz"
+    sha256 = "be64e0d8fd81a24064de7dace80d58e9df3c9fd17aa7aea0f49eec9336599bb4"
+    url = "https://github.com/JuliaBinaryWrappers/util_linux_jll.jl/releases/download/util_linux-v2.41.2+0/util_linux.v2.41.2.riscv64-linux-gnu.tar.gz"
 [[util_linux]]
 arch = "x86_64"
-git-tree-sha1 = "4e788189ff95e594f783f9e11b89a0ddf7fcc0ec"
+git-tree-sha1 = "2d891205ff8d746546ac514bce2bece91bfa4f70"
 libc = "glibc"
 os = "linux"
 
     [[util_linux.download]]
-    sha256 = "b18e8b055327f4876c20b46942b4542c6b4130b826e296e03015a7ea55679c1e"
-    url = "https://github.com/JuliaBinaryWrappers/util_linux_jll.jl/releases/download/util_linux-v2.41.1+0/util_linux.v2.41.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "26dbcbe29abc686c3e9eddfa85e19d84e8c28af8b29b14404a5328b482d2f1a7"
+    url = "https://github.com/JuliaBinaryWrappers/util_linux_jll.jl/releases/download/util_linux-v2.41.2+0/util_linux.v2.41.2.x86_64-linux-gnu.tar.gz"
 [[util_linux]]
 arch = "x86_64"
-git-tree-sha1 = "d9250d78cf892001447a0c76b769d3a65d6ed1e8"
+git-tree-sha1 = "8f66bdd991aed42a467f37ad7bfdfeb9bd2d5d68"
 libc = "musl"
 os = "linux"
 
     [[util_linux.download]]
-    sha256 = "c4443b6911eeac18051d5e6cd01609154fffae7c6b554d7bcd44c52cc3c497ca"
-    url = "https://github.com/JuliaBinaryWrappers/util_linux_jll.jl/releases/download/util_linux-v2.41.1+0/util_linux.v2.41.1.x86_64-linux-musl.tar.gz"
+    sha256 = "2ca6f306591fef034f0a48ce5e91debf073a401156f80bdc3887dfa6b974c6e8"
+    url = "https://github.com/JuliaBinaryWrappers/util_linux_jll.jl/releases/download/util_linux-v2.41.2+0/util_linux.v2.41.2.x86_64-linux-musl.tar.gz"
